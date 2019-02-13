@@ -1,7 +1,7 @@
-   *         
-  ***        
- *****       
-   *         
+   #         
+  ###        
+ #####       
+   #         
    
 The fir tree app asks the user on the command line to input an int.
 After the, the app creates a fir tree. 
