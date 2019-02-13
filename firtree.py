@@ -16,7 +16,6 @@ for rows in range(branches):
     sterncounter += 2
 
 # Create the trunk with another for-loop
-
 for trunk in range(treetrunk):
     print(initialcounter * " " + star)
 
