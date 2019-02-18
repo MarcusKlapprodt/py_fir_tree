@@ -43,3 +43,8 @@ for word in text.split(" "):
         d[word] = 1
 
 print(d)
+pq = queue.PriorityQueue()
+for word, number in d.items():
+    pq.put((-number, word))
+
+print(pq.get())
